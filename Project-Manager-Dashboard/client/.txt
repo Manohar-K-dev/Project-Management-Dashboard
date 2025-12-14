@@ -1,0 +1,8 @@
+npm create vite@latest
+
+npm install
+
+npm install tailwindcss @tailwindcss/vite
+
+npm install react-icons
+
